@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MY HAUSA RADIO'S</string>
+    <string name="splash_title">MY HAUSA RADIO'S</string>
+    <string name="splash_subtitle">+ Zabin Alummah</string>
+    <string name="tab_all">Duk Tashoshi</string>
+    <string name="tab_fav">Masu So</string>
+    <string name="about_title">Game da Manhaja & Sirri</string>
+    <string name="developer_name">Auwal Rabiu Jamo</string>
+    <string name="developer_email">auwalrabiujamo@gmail.com</string>
+    <string name="developer_phone">+2349078861166</string>
+    <string name="contact_email">Tuntubi Mai Haɓakawa</string>
+    <string name="contact_call">Kira Mai Haɓakawa</string>
+    <string name="view_policy_online">Duba Cikakken Manufa Akan Layi</string>
+    <string name="privacy_text">MY HAUSA RADIO'S tana girmama sirrinka. Ba mu tattara ko adana wani bayani na sirri daga masu amfani ba. Manhajar tana amfani da intanet ne kawai domin kawo tashoshin rediyo na Hausa kai tsaye da kuma nuna tallace-tallace daga Google AdMob.\n\n- Ba mu tattara suna, lambar waya ko wurin zama ba.\n- AdMob na iya amfani da cookies domin kawo talla da ta dace da kai.\n- Kana iya kashe tallan da aka tsara maka daga saitin asusun Google ɗinka.\n\nWannan manhajar tana nufin jama'a gaba ɗaya kuma ba ta takaita ga yara kaɗai ba.</string>
+</resources>
